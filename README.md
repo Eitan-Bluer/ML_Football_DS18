@@ -1,2 +1,2 @@
 # ML_Football_DS18
-Class practice number 3
+read explanation in Project Overview_football_Project_Eitan_Bluer.pdf
